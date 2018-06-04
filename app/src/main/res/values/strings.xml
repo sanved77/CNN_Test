@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CNN</string>
+    <string name="google_api_key">AIzaSyD-38MD5SmwiuD3J29JPlvtfmY1KqmxJKg</string>
+    <string name="web_maps_geocoding_api">AIzaSyCDrCpKjwofbWygmHnvDSSvVIhgjVRr9SU</string>
+</resources>
